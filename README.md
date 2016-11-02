@@ -1,6 +1,7 @@
 # sqloader
 
 Work with external SQL files in Go(lang). Use the queries calling it's name.
+Based on a concept seen on [dotsql](https://github.com/gchaincl/dotsql).
 
 Example
 -------
